@@ -1,0 +1,46 @@
+
+
+
+
+.container .uno{
+    background: #FAC0CB;
+    border: 4px solid blue;
+    margin-right: 172px;
+    margin-left: 185px;
+    padding: 32px;
+}
+
+.container .uno .h-uno{
+    margin-left: 20px;
+}
+
+.container .dos{
+    background: #ADD8E6;
+    border: 4px solid palevioletred;
+    margin-top: 20px;
+    margin-left: 165px;
+    margin-right: 152px;
+    padding: 5px;
+}
+
+.container .dos .h-dos{
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+    
+}
+
+.container .tres{
+    border: 4px solid orangered;
+    background: #FCDAB9;
+    margin-top: 48px;
+    margin-right: 165px;
+    margin-left: 600px;
+
+}
+
+.container .tres .h-tres{
+    margin-left: 35px;
+    padding: 32px;
+    
+}
+
